@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * mian - print a line using puts
+ * mian - print a line of code using puts
  *
  * Return:0
  */
