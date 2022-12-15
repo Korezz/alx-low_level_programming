@@ -1,7 +1,7 @@
 #include <stdio>  
 /**
  * main - Entry
- *Return: Alwaysb 0
+ *Return: Always 0
  */
 int main(void)
 {
